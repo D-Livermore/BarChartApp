@@ -1,0 +1,17 @@
+C:\Users\semic\Desktop\current classes\rapid class\BarChartApp\BarChartApp\bin\Debug\net8.0-windows\BarChartApp.exe
+C:\Users\semic\Desktop\current classes\rapid class\BarChartApp\BarChartApp\bin\Debug\net8.0-windows\BarChartApp.deps.json
+C:\Users\semic\Desktop\current classes\rapid class\BarChartApp\BarChartApp\bin\Debug\net8.0-windows\BarChartApp.runtimeconfig.json
+C:\Users\semic\Desktop\current classes\rapid class\BarChartApp\BarChartApp\bin\Debug\net8.0-windows\BarChartApp.dll
+C:\Users\semic\Desktop\current classes\rapid class\BarChartApp\BarChartApp\bin\Debug\net8.0-windows\BarChartApp.pdb
+C:\Users\semic\Desktop\current classes\rapid class\BarChartApp\BarChartApp\obj\Debug\net8.0-windows\BarChartApp.BarChartControl.resources
+C:\Users\semic\Desktop\current classes\rapid class\BarChartApp\BarChartApp\obj\Debug\net8.0-windows\BarChartApp.csproj.GenerateResource.cache
+C:\Users\semic\Desktop\current classes\rapid class\BarChartApp\BarChartApp\obj\Debug\net8.0-windows\BarChartApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semic\Desktop\current classes\rapid class\BarChartApp\BarChartApp\obj\Debug\net8.0-windows\BarChartApp.AssemblyInfoInputs.cache
+C:\Users\semic\Desktop\current classes\rapid class\BarChartApp\BarChartApp\obj\Debug\net8.0-windows\BarChartApp.AssemblyInfo.cs
+C:\Users\semic\Desktop\current classes\rapid class\BarChartApp\BarChartApp\obj\Debug\net8.0-windows\BarChartApp.csproj.CoreCompileInputs.cache
+C:\Users\semic\Desktop\current classes\rapid class\BarChartApp\BarChartApp\obj\Debug\net8.0-windows\BarChartApp.dll
+C:\Users\semic\Desktop\current classes\rapid class\BarChartApp\BarChartApp\obj\Debug\net8.0-windows\refint\BarChartApp.dll
+C:\Users\semic\Desktop\current classes\rapid class\BarChartApp\BarChartApp\obj\Debug\net8.0-windows\BarChartApp.pdb
+C:\Users\semic\Desktop\current classes\rapid class\BarChartApp\BarChartApp\obj\Debug\net8.0-windows\BarChartApp.genruntimeconfig.cache
+C:\Users\semic\Desktop\current classes\rapid class\BarChartApp\BarChartApp\obj\Debug\net8.0-windows\ref\BarChartApp.dll
+C:\Users\semic\Desktop\current classes\rapid class\BarChartApp\BarChartApp\obj\Debug\net8.0-windows\Form1.resources
